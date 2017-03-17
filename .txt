@@ -1,0 +1,110 @@
+<html>
+<body style="background-color:gray;">
+     <div style="position:absolute;top:110px;left:800px;color:black;">
+      <p>Najmus Swaqeeb Anik<br>JA-40(Top Floor), MOHAKHALI, DHAKA<br> cell# 01717589988<br>najmus.swaqeeb@gmail.com <br>
+	  <a style="text-decoration: none; color: black" target="_blank" href="https://www.linkedin.com/in/najmus-swaqeeb-59221374/">Linked In</a>
+	  </p>
+    </div>
+<div style="padding-left:0px;margin-top:10px; ">
+<h1 style="font-size:36pt;"><i><span style="color:E17862;">Resume of Md. Najmus Swaqeeb</i></h1>
+<div style="padding-left:150px;margin-top:3px; ">
+<img src="p.jpg" alt="PRO PIC" width="600" height="350">
+
+</div>
+<div id="menu" style="background-color:white;width:150px;height:700px;float:left;">
+</div>
+<div id="content" style="background-color:white;float:left;width:700px;height:1800px;">
+<pre><h1 style="font-size:25pt;">Profile:</h1>
+To use my knowledge of Computer Science, my communication skills and my motivational abilities in
+order to provide value to the organization as well as those under my guidance. 
+<h1 style="font-size:25pt;">Education and qualification:</h1>
+      <table ">
+<tr>
+    <th>Qualification</th>
+    <th>Result</th>
+    
+    
+    <th>Institution</th>
+    <th>Bord/University</th>
+</tr
+<tr>
+    <td>BS.C(CSE) in progress</td>
+    <td>-----</td>
+    
+    <td>BRAC University</td>
+    <td>University</td>
+ 
+</tr>
+<tr>
+    <td>H.S.C</td>
+    <td>4.60</td>
+    <td>Dinajpur Govt. Collage</td>
+    <td>Dinajpur</td>
+  
+</tr>
+<tr>
+    <td>S.S.C</td>
+    <td>5.00</td>
+    
+    <td>Dinajpur Zilla School</td>
+    
+    <td>Rajshai </td>
+</tr>
+
+</table>
+<hr>
+<h1 style="font-size:15pt;">Technical Experiences:</h1>
+      Languages:                  JAVA, HTML,CSS,PHP,MAT LAB
+      Platforms:                  Windows 10,8.1,7.XP,98 Linux 
+      Databases: 	          MySQL, MS Access
+      Design:                     UML,ER,EER
+      Concepts:                   Networking, operating systems
+	  
+<hr>
+<h1 style="font-size:15pt;">Abilities:</h1>
+      Skill Level                 MS Word, MS Excel, Power point,MS Outlook
+      practiced                   More than 1 years
+<hr>
+<h1 style="font-size:15pt;">Affiliations:</h1>
+                                 <ul>
+		    Director, IT (BRAC University Club with BRAC)
+		    Senior Member at BUCC (BRAC University Computer Club)
+								 
+                                 </ul>
+                               
+<hr>
+<h1 style="font-size:15pt;">Personal skills:</h1>
+                                  1.Honesty<br>
+                                  2.Team Spirit<br>
+                                  3.Accepting Challenges
+<hr>  
+<h1 style="font-size:15pt;">Languages:</h1>
+                                 English,Bengali
+<hr>                   
+<h1 style="font-size:15pt;">Iinterestes:</h1>
+                                  1.Internet browsing
+                                  2.Reading books
+<hr>
+<h1 style="font-size:15pt;">References:</h1>
+                                  References are available upon request.</pre>
+
+      
+			
+			<h1 style="font-size:15; font-family:courier ">	Contact me</h1>
+			</td>
+			<td style="padding: 20;">
+				<form method="POST" action="CV.html">
+					<label style=" font-family:courier " >Name:</label><br>
+					<input type="text" name="name"><br>
+					<label style="font-family:courier">Email:</label><br>
+					<input type="Email" name="email"><br>
+					<label style="font-family:courier" >Message:</label><br>
+					<textarea rows="10" cols="20"></textarea><br>
+					<input type="submit" name="Submit">
+				</form>
+			</td>
+		</tr>
+		
+</div>
+</body>
+</html>
